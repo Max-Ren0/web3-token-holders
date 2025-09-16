@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Jupyter/OS
+.ipynb_checkpoints/
+.DS_Store
+
+# Secrets & data
+.env
+*.csv
+*.png
